@@ -1,7 +1,6 @@
 # Olá, eu sou o Lucas!  👋
 * 🎓 Técnicao em **Desenvolvimento de Sistemas**;
 * 💻 Aprendendo: **C#**, **React**, **PHP**, **SQL**, e **Flutter**;
-* 🌐 Este perfil atualmente está destinado a aprendizagem, além de vitrine para futuros trabalhos.
 <div>
   <p align="center">
     <a heref="https://github.com/Luke2905">
