@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Luke2905/Luke2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Oilá, eu sou o Lucas!  🖖
+* 🎓 Técnicao em **Desenvolvimento de Sistemas**;
+* 💻 Aprendendo: **C#**, **React**, **PHP**, **SQL**, e **Flutter**;
+* 🌐 Este perfil atualmente está destinado a aprendizagem, além de vitrine para futuros trabalhos.
+>_"A lógica é o princípio da sabedoria, não o fim"_ - Star Trek.
+#
+<div>
+  <p align="center">
+    <a heref="https://github.com/Luke2905">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luke2905&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  </p>
+</div>  
