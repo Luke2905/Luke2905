@@ -1,5 +1,5 @@
 # Olá, eu sou o Lucas!  👋
-* 🎓 Técnicao em **Desenvolvimento de Sistemas**;
+* 🎓 Técnico em **Desenvolvimento de Sistemas**;
 * 💻 Aprendendo: **C#**, **React**, **PHP**, **SQL**, e **Flutter**;
 <div>
   <p align="center">
