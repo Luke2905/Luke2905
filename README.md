@@ -1,3 +1,5 @@
+<img align="center" alt=""  src="https://komarev.com/ghpvc/?username=Luke2905&style=flat-square">
+
 # Olá, eu sou o Lucas!  👋
 * 🎓 Técnico em **Desenvolvimento de Sistemas**;
 * 💻 Aprendendo: **C#**, **React**, **PHP**, **SQL**, e **Flutter**;
