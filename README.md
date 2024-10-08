@@ -3,6 +3,7 @@
 # Olá, eu sou o Lucas!  👋
 * 🎓 Técnico em **Desenvolvimento de Sistemas**;
 * 💻 Aprendendo: **C#**, **React**, **PHP**, **SQL**, e **Flutter**;
+* Estudando Informática para Negócios na Fatec São Bernardo do Campo;
 <div>
   <p align="center">
     <a heref="https://github.com/Luke2905">
