@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Lucas!  👋
 * 🎓 Técnico em **Desenvolvimento de Sistemas**;
-* 💻 Aprendendo: **C#**, **React**, **PHP**, **SQL**, e **Flutter**;
+* 💻 Aprendendo: **C#**, **React**, **PHP**, **Python**, **SQL**, e **Flutter**;
 * Estudando Informática para Negócios na Fatec São Bernardo do Campo;
 <div>
   <p align="center">
