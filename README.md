@@ -42,11 +42,10 @@ Sou apaixonado por construir soluções eficientes que unem a lógica de negóci
 
 <div align="center">
   <a href="https://github.com/Luke2905">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luke2905&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke2905&layout=compact&langs_count=7&theme=omni" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luke2905&show_icons=true&theme=omni&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke2905&layout=compact&langs_count=7&theme=omni&v=1" alt="Linguagens mais usadas" />
   </a>
 </div>
-
 ---
 
 ### Contato
