@@ -38,15 +38,17 @@ Sou apaixonado por construir soluções eficientes que unem a lógica de negóci
 
 <br>
 
-### Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas e Atividades
 
 <div align="center">
   <a href="https://github.com/Luke2905">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luke2905&show_icons=true&theme=omni&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke2905&layout=compact&langs_count=7&theme=omni&v=1" alt="Linguagens mais usadas" />
+    <!-- Card de Sequência de Commits (Streak) -->
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Luke2905&theme=omni&hide_border=true" alt="Estatísticas de Contribuição" />
+    
+    <!-- Gráfico de Linhas de Atividade -->
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Luke2905&theme=omni&hide_border=true&bg_color=191919" alt="Gráfico de Atividade" />
   </a>
 </div>
----
 
 ### Contato
 
